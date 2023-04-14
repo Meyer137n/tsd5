@@ -1,0 +1,3 @@
+﻿  tsd5.cpp
+C:\Users\taych\OneDrive\Рабочий стол\типы данных\лаб5\tsd5\tsd5.cpp(144,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  tsd5.vcxproj -> C:\Users\taych\OneDrive\Рабочий стол\типы данных\лаб5\tsd5\x64\Debug\tsd5.exe
